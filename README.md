@@ -1,0 +1,2 @@
+# BSAVT-projesi
+BİLİŞİM SİSTEMLERİ ALTYAPI VE TEKNOLOJİLERİ projesi

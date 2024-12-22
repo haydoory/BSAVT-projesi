@@ -1,0 +1,12 @@
+[Unit]
+Description=Directory Monitor Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/hayder/bsm/monitor-sevices.py
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,11 @@
+{"event_type": "created", "path": "/home/hayder/bsm/test/deneme", "is_directory": false, "timestamp": "2024-12-22 19:34:16"}
+{"event_type": "modified", "path": "/home/hayder/bsm/test", "is_directory": true, "timestamp": "2024-12-22 19:34:16"}
+{"event_type": "opened", "path": "/home/hayder/bsm/test/deneme", "is_directory": false, "timestamp": "2024-12-22 19:34:16"}
+{"event_type": "closed", "path": "/home/hayder/bsm/test/deneme", "is_directory": false, "timestamp": "2024-12-22 19:34:16"}
+{"event_type": "modified", "path": "/home/hayder/bsm/test", "is_directory": true, "timestamp": "2024-12-22 19:34:16"}
+{"event_type": "moved", "path": "/home/hayder/bsm/test/deneme", "is_directory": false, "timestamp": "2024-12-22 19:34:26"}
+{"event_type": "modified", "path": "/home/hayder/bsm/test", "is_directory": true, "timestamp": "2024-12-22 19:34:26"}
+{"event_type": "moved", "path": "/home/hayder/bsm/test/deneme.txt", "is_directory": false, "timestamp": "2024-12-22 22:52:44"}
+{"event_type": "modified", "path": "/home/hayder/bsm/test", "is_directory": true, "timestamp": "2024-12-22 22:52:44"}
+{"event_type": "deleted", "path": "/home/hayder/bsm/test/wwwww.txt", "is_directory": false, "timestamp": "2024-12-22 22:52:52"}
+{"event_type": "modified", "path": "/home/hayder/bsm/test", "is_directory": true, "timestamp": "2024-12-22 22:52:52"}
